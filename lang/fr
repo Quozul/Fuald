@@ -1,0 +1,39 @@
+# Original language of the game (because the author of the game is French)
+
+lang_bag="sac"
+lang_exp="expérience"
+lang_loot="butin"
+lang_item="objets"
+lang_health="vie"
+lang_entity="entité"
+lang_weapon="arme"
+lang_balance="solde"
+lang_pet="animal"
+
+lang_runAway="fuir"
+lang_runAwayFailed="vous n'avez pas réussi à vous enfuir"
+lang_attack="attaquer"
+lang_harvest="récolter"
+lang_inventory="inventaire"
+lang_damage="dégâts"
+
+lang_empty="vide"
+lang_none="aucun"
+
+lang_upTo="jusqu'à"
+lang_product="produit"
+
+lang_tame="apprivoiser"
+lang_tameSucces="vous avez apprivoisé"
+lang_tameFail="vous n'avez pas réussi à apprivoiser"
+
+lang_selectAnItem="sélectionnez un objet à utiliser"
+lang_cantUseItem="vous ne pouvez pas utiliser cet objet"
+
+lang_gainExp="experience obtenue"
+lang_lootNothing="vous n'avez rien obtenu"
+
+lang_playerBagFull="votre sac est plein"
+lang_playerDie_inCombat="vous êtes morts en combat"
+lang_playerInflicted="vous infligez à l'ennemi"
+lang_entityInflicted="l'ennemi vous a infligé"
