@@ -1,0 +1,88 @@
+Abricot
+Airelle
+Amande
+Ananas
+Aronia
+Avocat
+Banane
+Bergamote
+Bigaradier
+Cacahuète
+Calamondin
+Canneberge
+Cassis
+Cédrat
+Cerise
+Châtaigne
+Citron
+Citron vert
+Clémentine
+Coing
+Combava
+Cranberry
+Datte
+Durian
+Figue
+Fraise
+Fraise des bois
+Framboise
+Fruit de la passion
+Goyave
+Grenade
+Griotte
+Groseille
+Groseille à maquereau
+Jujube
+Kabosu
+Kaki
+Kiwi
+Kumquat
+Lime
+Limette
+Litchi
+Mandarine
+Mangue
+Marron
+Melon
+Merise
+Mineola
+Mirabelle
+Mûre
+Mûroise
+Myrtille
+Nashi
+Nectarine
+Nèfle
+Noisette
+Noix
+Noix de cajou
+Noix de coco
+Noix de macadamia
+Noix de pécan
+Olive
+Orange
+Orange sanguine
+Pamplemousse
+Papaye
+Pastèque
+Pêche
+Pignon de pin
+Pistache
+Poire
+Pomelo
+Pomme
+Prune
+Quetsche
+Raisin
+Safou
+Sudachi
+Sureau noir
+Tamarin
+Tangelo
+Tangerine
+Tangor
+Tomate
+Ugli
+Vanille
+Vavangue
+Yuzu
