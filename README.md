@@ -1,2 +1,2 @@
 # Fuald
-Game: Text-based RPG game
+Fuald is a text-based RPG game developped in BASH scripting.
