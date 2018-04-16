@@ -1,0 +1,39 @@
+# Significantly the same as the variables' name
+
+lang_bag="bag"
+lang_exp="experience"
+lang_loot="loot"
+lang_item="item"
+lang_health="health"
+lang_entity="entity"
+lang_weapon="weapon"
+lang_balance="balance"
+lang_pet="pet"
+
+lang_runAway="run away"
+lang_runAwayFailed="you have not managed to escape"
+lang_attack="attack"
+lang_inventory="inventory"
+lang_harvest="harvest"
+lang_damage="damage"
+
+lang_empty="empty"
+lang_none="none"
+
+lang_upTo="up to"
+lang_product="product"
+
+lang_tame="tame"
+lang_tameSucces="you tamed"
+lang_tameFail="you have not managed to tame"
+
+lang_selectAnItem="select an object to use"
+lang_cantUseItem="you can not use this object"
+
+lang_gainExp="experience gained"
+lang_lootNothing="you obtain nothing"
+
+lang_playerBagFull="your bag is full"
+lang_playerDie_inCombat="you die in fight"
+lang_playerInflicted="you inflicted to the ennemy"
+lang_entityInflicted="the ennemy inflicted to you"
